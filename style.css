@@ -1,0 +1,132 @@
+.intro-img{
+    background-image: url("./2.jpg");
+    width: 100%;
+    height: 90vh;
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+.intro-text{
+    font-family: Roboto,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+.work-collection{
+    background: #f1f1f1;
+}
+.inner-card-text{
+    background: #f1f1f1;
+}
+.card-text{
+    font-size: 14px;
+}
+.second-img{
+    background-image: url("./1.1.jpg");
+    width: 100%;
+    height: 110vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.second-img .container{
+    padding-left: 10%;
+    padding-top: 14%;
+}
+.third-img{
+    background: #f1f1f1;
+}
+.third-img .card{
+    background: #f1f1f1;
+}
+.third-img p{
+    font-size: 13px;
+    color: #323233;
+}
+.fourth-img{
+    
+    background-image:  url("./3.jpg");
+    width: 100%;
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fourth-img .btn-white{
+    background-color: hsla(0,0%,100%,.70);
+    color: #323233;
+}
+.fourth-img button:hover{
+    background-color: white;
+}
+.text-img{
+    font-size: 20px;
+}
+.play-icon{
+    width: 70px;
+}
+.fifth-img{
+    width: 100%;
+    height: 80vh;
+    background-image: url("./1111.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.companies img{
+    width: 100px;
+    height: 70px;
+}
+.sixth-img{
+    background-image: url("./4.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.sixth-img .btn-white{
+    background-color: hsla(0,0%,100%,.70);
+    color: #323233;
+}
+.sixth-img button:hover{
+    background-color: white;
+    color: #323233;
+}
+.footer .row{
+    justify-content: center;
+}
+.main-footer img{
+    width: 220px;
+}
+.main-footer{
+    height: fit-content;
+    background-color: #69696A;
+}
+.main-footer li{
+    list-style: none;
+}
+.links img{
+    width: 60px;
+    height: 40px;
+
+}
+hr.test123{
+    background-color: #69696A;
+    border-top: 2px dotted white;
+}
+.work-collection .card{
+    border: none;
+}
+@media screen and (max-width:768px) {
+    .footerContent div{
+        background-color: #3c3c5f81;
+        border: white solid 1px;
+    }
+}
+.last-button button{
+    background-color: white;
+    height: fit-content;
+}
+.last-button button:hover{
+    background-color: #f1f1f1;
+}
+.test{
+    display: flex;
+    flex-wrap: wrap;
+}
